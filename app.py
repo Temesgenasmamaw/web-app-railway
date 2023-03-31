@@ -2,7 +2,7 @@
 """
 Created on 3/20/2023
 
-@author: Temesgen
+@author: Temesgen Asmamaw
 """
 from PIL import Image
 import numpy as np 
